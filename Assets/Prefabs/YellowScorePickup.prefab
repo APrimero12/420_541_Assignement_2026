@@ -280,6 +280,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PickupItem
   type: 0
   points: 50
-  pickupSound: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: 96ed662a11981664198f1505a9de356e, type: 3}
   respawnDelay: 0
   visuals: {fileID: 0}
